@@ -1,0 +1,518 @@
+[
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\8f6f31f461c4597888a99d8c6f2f43fcabb49e5f\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_list_history.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_list_history.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_send_review.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_send_review.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_list_shop_order.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_list_shop_order.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_detail_history.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_detail_history.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_option.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\dialog_option.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_list_shop_cart.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_list_shop_cart.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_product_cart_order.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\item_product_cart_order.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_history.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_category.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\item_category.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_search_menu.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_search_menu.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_account.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_register.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_list_topping.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\item_list_topping.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_list_shop_order.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_list_shop_order.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\map_detail.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\map_detail.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_list_my_food.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_list_my_food.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_search_shop_result.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_search_shop_result.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_select_category.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\dialog_select_category.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_shops_comment.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_shops_comment.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_list_offer.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_list_offer.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_text_spinner.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\layout_text_spinner.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_home.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\8f6f31f461c4597888a99d8c6f2f43fcabb49e5f\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_change_quantity.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\dialog_change_quantity.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_tab_cart.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_main_tab_cart.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\8f6f31f461c4597888a99d8c6f2f43fcabb49e5f\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_food_detail.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_food_detail.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_layout_banner.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\fragment_layout_banner.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_credit_card_payment.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_credit_card_payment.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_tab.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\view_tab.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\8f6f31f461c4597888a99d8c6f2f43fcabb49e5f\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_oder_detail_new.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\dialog_oder_detail_new.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_list_shop_my_menu.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_list_shop_my_menu.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_list_food_of_shop_order.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_list_food_of_shop_order.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_list_food_of_shop_cart.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_list_food_of_shop_cart.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_shop_detail.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_shop_detail.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_open_time.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\dialog_open_time.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_details_order.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\dialog_details_order.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_add_item_details.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\dialog_add_item_details.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\toast_layout.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\toast_layout.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_product_detail.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\item_product_detail.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_tabs.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_main_tabs.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_spinner.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_comment.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\a3726dcca66036181de534de759c21a3c2171a24\\output\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_map_of_shop.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_map_of_shop.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_progress_dialog.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\layout_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_setquantity_new.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\dialog_setquantity_new.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_account_updatepass.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\fragment_account_updatepass.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_feedback.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\fragment_feedback.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\8f6f31f461c4597888a99d8c6f2f43fcabb49e5f\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\8f6f31f461c4597888a99d8c6f2f43fcabb49e5f\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\loadmore_button.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\loadmore_button.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_search.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_list_food_home.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_list_food_home.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_detail_history.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\fragment_detail_history.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_list_shop.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_list_shop.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\8f6f31f461c4597888a99d8c6f2f43fcabb49e5f\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_account_updateinfor.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\fragment_account_updateinfor.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_offer.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_offer.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\card_input_widget.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\3419ab86fb335ab52a3167c0be31bc1a7f444aea\\output\\res\\layout\\card_input_widget.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\itemproduct_cart_oder_new.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\itemproduct_cart_oder_new.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_text_row_spinner.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\layout_text_row_spinner.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\8f6f31f461c4597888a99d8c6f2f43fcabb49e5f\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_list_category.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_list_category.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_splash.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_list_my_food_2.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_list_my_food_2.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_image_food.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\item_image_food.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_add_product.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\item_add_product.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_list_category.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_list_category.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\row_list_food.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\row_list_food.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\8f6f31f461c4597888a99d8c6f2f43fcabb49e5f\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_contact.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\dialog_contact.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_feedback.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_list_food.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_list_food.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_tab_user.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\activity_main_tab_user.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_account_info.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\fragment_account_info.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_add_item.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\dialog_add_item.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_login.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_instruction.xml",
+        "source": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\src\\main\\res\\layout\\dialog_instruction.xml"
+    },
+    {
+        "merged": "E:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\LeQuan\\.android\\build-cache\\1f2a96fc97797241ce78ea04d252d2d78892859c\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    }
+]

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\6ca93dae0bad7a0aa806ad11fa715b752c21fc81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0977155bbf52a36505bf87751dc59babb09aa29f">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a9772130f04a4ab7e2483b392f82cf10946488f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_836734b7b2be6c00de259360406435d55607ec46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\170d98fea7b4eb566e3ed7243a844fb03795fc62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b87e00451abcbb821a487f91af5e96cdfb5c6056\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.8.0_51732c77e89b37be3acd4bc6d64c929867d07aee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\4bfbfa606ee502aae5f26597eb9b1f369545c4a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1d20d33b06ea0aab07c35c8716a90e4aac80652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\libs\eventbus-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\eventbus-2.4.0_928a20c8929cb4e56f8bb53abdb6c01c6998df28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\40a67c59dce5f7aea9ec75227fa2abdf82aeb265\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6689799d0841c8f1e862efffdb5afde07049e4b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-query-full.0.26.8_23882fc68196fb1cf1d7fe9fe0bbb7aedd33d5de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-query-full.0.26.8_23882fc68196fb1cf1d7fe9fe0bbb7aedd33d5de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_245fd39fecd6990318910b490da4d3f868d1923b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\88f5d38ed30becccf86ca24083328ba4e40526a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6d9423f1c243543af553869ff99de2de492f2c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.1\84b4b7d1c4a238e7899972b7446c250691e65f1f\okhttp-3.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.9.1_a1cca5f4acfdcf33c45840d9c0502d87309055e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01dea81393ee5942d49739596fb48f5616770706">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7736d5716362a8fb94889318a60ae7ae1ae6e4f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\libs\eventbus-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\eventbus-2.4.0_928a20c8929cb4e56f8bb53abdb6c01c6998df28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.1\84b4b7d1c4a238e7899972b7446c250691e65f1f\okhttp-3.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.9.1_a1cca5f4acfdcf33c45840d9c0502d87309055e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_d45180eebb06e28a3ccf75b830146438ea4432bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\276789f3087ff534070a5e22619bcc71902257aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c040f9e82eef7d04905628b64698b92b4625d68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\816773d2d2eff4016abe17d0185d1a757d664a49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_481c08f8a1741d61b4a59739ab2c9888beee08dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_245fd39fecd6990318910b490da4d3f868d1923b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\0895f36c542fcf001a72d9fc4685ac232aa9ea7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03d1ca5133dd6e36f423bbd4d9847cf0081057ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.1_70614b0283197def8eaf549420288d2d7964dd78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_a487bc1c585406587b0cf67833c12d949b2b1762\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\7d5f4b1004628c8ba342f10a67d0a38e7f7913de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa950cf3431262df0a42ab21753943b3f3d0785b">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef7e35ff98743a27027b7a3bff51ba9d209e546b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\7d5f4b1004628c8ba342f10a67d0a38e7f7913de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa950cf3431262df0a42ab21753943b3f3d0785b">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef7e35ff98743a27027b7a3bff51ba9d209e546b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5b9fd89047128a7c153140e4b953b3d70a7fead3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\0895f36c542fcf001a72d9fc4685ac232aa9ea7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03d1ca5133dd6e36f423bbd4d9847cf0081057ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.1_70614b0283197def8eaf549420288d2d7964dd78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\0d59d126c4aa4550683f825da7381914fceeab40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_376ff576d7fb882fc29f2c05c50d58e707a20b5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.8.0_51732c77e89b37be3acd4bc6d64c929867d07aee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\3419ab86fb335ab52a3167c0be31bc1a7f444aea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0f912a454739031f70529676fa62443c3cb5ae5a">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d4a8fe243d06da0da405a157dfa6f2c16b5113f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\558ef7c57147ae710cb30abf305118a319391a6e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95fb302af4a1b75293eadbc71bdbb14c543fd9e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\1f2a96fc97797241ce78ea04d252d2d78892859c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f019245c863db5e0457efa30e0d26c0fa01d26ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\6b06170bb9d4d77dfa1087e0db44e0ecf78fec69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4029ad3b0a2bad832f2cdc93df9918b310557a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\6ca93dae0bad7a0aa806ad11fa715b752c21fc81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0977155bbf52a36505bf87751dc59babb09aa29f">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a9772130f04a4ab7e2483b392f82cf10946488f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LeQuan\.android\build-cache\336407a819ac893a99c77d0128dd0c0b0927f8bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="E:\CP software\New Destopk\multirestaurant_android_src_20180725\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d02f4b0de8a9b5e2ffb0e22fdd4739b70a804348\classes.dex" />
+    </item>
+
+</items>

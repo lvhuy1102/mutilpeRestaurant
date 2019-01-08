@@ -1,0 +1,7 @@
+#Tue Jan 08 16:01:43 ICT 2019
+base.0=E\:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes2.dex
+base.1=E\:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+file.0=E\:\\CP software\\New Destopk\\multirestaurant_android_src_20180725\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
